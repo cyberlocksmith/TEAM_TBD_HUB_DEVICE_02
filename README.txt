@@ -1,6 +1,6 @@
 README
 ==========================================================================
-TEAMTBD_sensors.py runs locally on the Hub Device. The modified .bashrc
+TEAM_TBD_sensors.py runs locally on the Hub Device. The modified .bashrc
 file ensures that the program will start up when the device boots.
 The .bashrc file will also start the Greengrass Core program with
 device boot.
